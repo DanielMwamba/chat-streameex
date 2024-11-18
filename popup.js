@@ -857,7 +857,7 @@ function update(response, sync=true){
 				password = "&password="+response.password;
 			}
 			
-			var baseURL = "https://danielmwamba.github.io/social-stream/";
+			var baseURL = "https://multichat.streameex.com/";
 			if (devmode){
 				baseURL = "file:///C:/Users/steve/Code/social_stream/";
 			}
