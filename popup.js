@@ -857,7 +857,7 @@ function update(response, sync=true){
 				password = "&password="+response.password;
 			}
 			
-			var baseURL = "https://socialstream.ninja/";
+			var baseURL = "https://danielmwamba.github.io/social-stream/";
 			if (devmode){
 				baseURL = "file:///C:/Users/steve/Code/social_stream/";
 			}
